@@ -1,0 +1,23 @@
+<annotation>
+    <folder>img</folder>
+    <filename>IMG_3030.JPG</filename>
+    <size>
+        <width>3456</width>
+        <height>5184</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>mtdew</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>532</xmin>
+            <ymin>667</ymin>
+            <xmax>3074</xmax>
+            <ymax>4281</ymax>
+        </bndbox>
+    </object>
+</annotation>

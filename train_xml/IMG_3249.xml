@@ -1,0 +1,23 @@
+<annotation>
+    <folder>img</folder>
+    <filename>IMG_3249.JPG</filename>
+    <size>
+        <width>3456</width>
+        <height>5184</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Welchs</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>592</xmin>
+            <ymin>944</ymin>
+            <xmax>2677</xmax>
+            <ymax>4535</ymax>
+        </bndbox>
+    </object>
+</annotation>

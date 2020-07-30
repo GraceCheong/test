@@ -1,0 +1,23 @@
+<annotation>
+    <folder>img</folder>
+    <filename>IMG_3062.JPG</filename>
+    <size>
+        <width>3456</width>
+        <height>5184</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>PowerAde</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>784</xmin>
+            <ymin>524</ymin>
+            <xmax>2470</xmax>
+            <ymax>4975</ymax>
+        </bndbox>
+    </object>
+</annotation>

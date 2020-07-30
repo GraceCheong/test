@@ -1,0 +1,32 @@
+item {
+	id: 1
+	name: 'mtdew'
+}
+item {
+	id: 2
+	name: 'Welchs'
+}
+item {
+	id: 3
+	name: 'Hotsix'
+}
+item {
+	id: 4
+	name: 'PowerAde'
+}
+item {
+	id: 5
+	name: 'MarlboroGold'
+}
+item {
+	id: 6
+	name: 'Doritos'
+}
+item {
+	id: 7
+	name: 'Pocachip'
+}
+item {
+	id: 8
+	name: 'WhaleFood'
+}
